@@ -1,0 +1,28 @@
+h1{
+    color: cornflowerblue;
+    font-weight: bold;
+    text-align: center;
+}
+caption{
+    color: yellowgreen;
+    size: 25px;
+}
+th{
+    size: 100px;
+    background-color: greenyellow;
+    text-align: center;
+    font-weight: bold;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table{
+    margin:auto
+  }
+  .LMSGI{
+    background-color: aqua;
+  }
+  .BD{
+    background-color: bisque;
+  }
