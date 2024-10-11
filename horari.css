@@ -17,15 +17,15 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
   }
-  table{
+table{
     margin:auto
   }
-  .LMSGI{
+.LMSGI{
     background-color: aqua;
-  }
-  .BD{
+}
+.BD{
     background-color: bisque;
-  }
+}
 .ED{
   background-color: blueviolet;
 }
