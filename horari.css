@@ -44,3 +44,13 @@ table{
 .IPOI{
   background-color: salmon;
 }
+.Descans{
+  text-align: center;
+  padding: 15px;
+  font-size: 20px;
+}
+.Hores{
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+}
