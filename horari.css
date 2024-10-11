@@ -1,30 +1,36 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1{
-    color: cornflowerblue;
-    font-weight: bold;
-    text-align: center;
+  color: cornflowerblue;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
 }
 caption{
-    color: yellowgreen;
-    size: 25px;
+  color: yellowgreen;
+  font-size: 30px;
+  padding: 10px;
 }
 th{
-    size: 100px;
-    background-color: greenyellow;
-    text-align: center;
-    font-weight: bold;
+  size: 100px;
+  background-color: greenyellow;
+  text-align: center;
+  font-weight: bold;
 }
 table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+  border: 3px solid black;
+  border-collapse: collapse;
   }
 table{
-    margin:auto
+  margin:auto;
+  text-align: center;  
   }
 .LMSGI{
-    background-color: aqua;
+  background-color: aqua;
 }
 .BD{
-    background-color: bisque;
+  background-color: bisque;
 }
 .ED{
   background-color: blueviolet;
@@ -53,4 +59,11 @@ table{
   font-size: 20px;
   padding: 10px;
   width: 180px;
+}
+.Dies{
+  padding: 30px;
+  font-size: 25px;
+}
+td:not(.Hores){
+  font-size: 20px;
 }
